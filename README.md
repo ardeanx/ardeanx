@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardeanstudio&theme=dracula" alt="ardeanstudio" /></a> </p>
 
 - 🔭 I’m currently working on **Artificial Intelligence and System Automation**
-- 🤝 I’m looking for help with **AI, ML, and DL Library Integeration**
+- 🤝 I’m looking for help with **AI, ML, and DL Library Integration**
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 - 💬 Ask me about **PHP, Python, Laravel, Cyber Security**
-- 📫 How to reach me **ardeanbimasaputra@gmail.com**
+- 📫 How to reach me **ardeanstudio@gmail.com**
 - 👨‍💻 All of my projects are available at **ardeanstudio.co**
 - ⚡ Fun fact **I think I'm Multi-Talent**
 
