@@ -43,22 +43,22 @@
 <p><a href="https://www.buymeacoffee.com/ardean"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ardean" /></a><a href="https://ko-fi.com/ardean"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ardean" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardeanstudio&layout=compact&theme=dracula" alt=ardeanstudio />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardeanx&layout=compact&theme=dracula" alt=ardeanstudio />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ardeanstudio&show_icons=true&locale=en&theme=dracula" alt="ardeanstudio" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ardeanx&show_icons=true&locale=en&theme=dracula" alt="ardeanstudio" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ardeanstudio&theme=dracula" alt="ardeanstudio" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ardeanx&theme=dracula" alt="ardeanstudio" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/ardeanstudio">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardeanstudio&theme=darcula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardeanstudio&theme=darcula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardeanstudio&theme=darcula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardeanstudio&theme=darcula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardeanstudio&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ardeanx&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ardeanx&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ardeanx&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardeanx&theme=darcula" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardeanx&theme=darcula" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ardeanstudio&theme=dracula"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ardeanx&theme=dracula"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
