@@ -3,8 +3,6 @@
 <h3 align="center">A Passionate DevSecOps from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardeanx&label=Profile%20views&color=0e75b6&style=flat" alt="ardeanx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardeanx&theme=" alt="ardeanx" /></a> </p>
-
 - 🔭 I’m currently working on **Booking Engine, Pool Pro, and ARIA POS**
 - 👯 I’m looking to collaborate on **ARIA - Centralized Smarthouse System**
 - 🤝 I’m looking for help with **Deep Learning & Neural Network**
