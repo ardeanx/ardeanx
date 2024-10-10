@@ -3,8 +3,8 @@
 <h3 align="center">A Passionate DevSecOps from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardeanx&label=Profile%20views&color=0e75b6&style=flat" alt="ardeanx" /> </p>
 
-- 🔭 I’m currently working on **Billin and ARIA POS**
-- 👯 I’m looking to collaborate on **ARIA - Centralized Smarthouse System**
+- 🔭 I’m currently working on **Billin, iNiPos, Toureast, DeContra**
+- 👯 I’m looking to collaborate on **Toureast - Multivendor Tourism Platform**
 - 🤝 I’m looking for help with **Deep Learning & Neural Network**
 - 🌱 I’m currently learning **Laravel, NextJs, and ReactJs**
 - 💬 Ask me about **Cybersecurity, Python, PHP, Web Framework, Artificial Intelligence**
