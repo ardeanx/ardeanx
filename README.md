@@ -3,19 +3,19 @@
 <h3 align="center">A Passionate DevSecOps from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardeanx&label=Profile%20views&color=0e75b6&style=flat" alt="ardeanx" /> </p>
 
-- 🔭 I’m currently working on **Billin, iNiPos, Toureast, DeContra**
-- 👯 I’m looking to collaborate on **Toureast - Multivendor Tourism Platform**
+- 🔭 I’m currently working on **Bakasir, Billin, DeContra, Toureast**
+- 👯 I’m looking to collaborate on **IsmyBio - Ultimate 100% Free Social Branding Platform**
 - 🤝 I’m looking for help with **Deep Learning & Neural Network**
 - 🌱 I’m currently learning **Laravel, NextJs, and ReactJs**
-- 💬 Ask me about **Cybersecurity, Python, PHP, Web Framework, Artificial Intelligence**
+- 💬 Ask me about **Cybersecurity, Python, Web Framework, System Architect, System Flow Design, System Engineering**
 - 📫 How to reach me **ardeanbimasaputra@gmail.com**
-- 👨‍💻 All of my projects are available at **https://owner.ardeanstudio.co**
-- 📝 I regularly write articles on **https://owner.ardeanstudio.co**
+- 👨‍💻 All of my projects are available at **https://ardean.me**
+- 📝 I regularly write articles on **https://ardean.me**
 - 📄 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/ardeanbimasptra/)**
 - ⚡ Fun fact **I think I'm Multi-Talent**
 
 <div> <a href="https://twitter.com/ardeanstudio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ardeanbimasaputra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ardeanbimasptra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/ardeanx" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ardeanbimasaputra" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:ardeanbimasaputra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
